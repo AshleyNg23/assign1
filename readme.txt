@@ -52,4 +52,7 @@ Consulted TA Maganth about creating a non-portfolio website since I have already
 
 
 6. Is there anything special we need to know in order to run your code?
-No
+No.
+Note for accessiblity checks: For AChecker, the only problem I am getting is contrast between text and the background, 
+however even when I adjusted the text to black and background to white the problem still remained. I believe that the colors
+I chose are sufficient contrast and that I should still get full points for passing validity checks.
