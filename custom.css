@@ -1,3 +1,29 @@
-.navbar .navbar-expand-lg .navbar-light .bg-light {
-    background-color: rgb(131, 204, 247);
+h2.story-header {
+    text-align: center;
+}
+
+p.story-body {
+    text-align: center;
+}
+
+h2.left-character-header {
+    padding-top: 15%; 
+    text-align: left;
+}
+
+p.left-character-body {
+    text-align: left;
+}
+
+h2.right-character-header {
+    padding-top: 15%; 
+    text-align: right;
+}
+
+p.right-character-body {
+    text-align: right;
+}
+
+.bg-light {
+    background-color: #f8f9fa7e!important;
 }
